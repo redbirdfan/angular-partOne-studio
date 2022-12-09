@@ -1,0 +1,25 @@
+.box {
+    display: flex;
+    padding: 10px
+}
+
+app-crew {
+    color: darkblue;
+    font-style: italic;
+}
+
+app-equipment {
+    color:chocolate;
+    font-family: fantasy;
+}
+
+app-experiments {
+    color:darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
